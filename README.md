@@ -7,7 +7,7 @@ For a paper discussion group at 8th Light, in order to provide background inform
 [Measuring machine learning performance](https://github.com/hnlee/ml-resources/blob/master/paper-discussion-201910-resources-02.md)
 
 A whirlwind tour of classifier families
-* Linear models: linear discriminant analysis, support vector machine
+* [Linear models: linear discriminant analysis, support vector machine](https://github.com/hnlee/ml-resources/blob/master/paper-discussion-201910-resources-03.ipynb)
 * Variations on linearity: logistic regression, multinomial regression, generalized linear models, multivariate adaptive regression splines
 * Branching models: decision trees, rule-based methods
 * Ensemble models: boosting, bagging, stacking, random forests
